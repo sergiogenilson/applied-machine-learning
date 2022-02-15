@@ -10,3 +10,5 @@ CIFAR100 - https://keras.io/api/datasets/cifar100/
 COCO - https://cocodataset.org/ 
 
 IMAGENET - https://image-net.org/ 
+
+Datasets in datasets folder
