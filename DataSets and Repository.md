@@ -1,4 +1,4 @@
-# HOMEWORK 2 - Apllied Machine Learning
+# HOMEWORK 3 - Apllied Machine Learning
 
 Jupyter Notebooks available on https://github.com/sergiogenilson/applied-machine-learning.
 
@@ -11,4 +11,4 @@ COCO - https://cocodataset.org/
 
 IMAGENET - https://image-net.org/ 
 
-Datasets in datasets folder
+Particular datasets - https://github.com/sergiogenilson/applied-machine-learning
