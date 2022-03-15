@@ -1,6 +1,6 @@
-path: ../datasets/COCOPP
+path: ../datasets/COCO_PP_format
 train: images/train
-val: images/valid
+val: images/val
 
 # Classes
 nc: 3  # number of classes

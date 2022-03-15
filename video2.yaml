@@ -1,0 +1,6 @@
+path: ../datasets/video2
+val: images/valid
+
+# Classes
+nc: 3  # number of classes
+names: ['person', 'cat', 'dog']  # class names
