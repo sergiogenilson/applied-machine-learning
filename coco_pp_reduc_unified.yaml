@@ -1,0 +1,7 @@
+path: ../datasets/COCO_REDUC_PP_unified
+train: images/train
+val: images/val
+
+# Classes
+nc: 2  # number of classes
+names: ['person', 'pet']  # class names

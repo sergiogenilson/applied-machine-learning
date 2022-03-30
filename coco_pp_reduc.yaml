@@ -1,6 +1,6 @@
-path: ../datasets/COCO_COMPL_PP
+path: ../datasets/COCO_REDUC_PP
 train: images/train
-val: images/test
+test: images/test
 val: images/val
 
 # Classes
